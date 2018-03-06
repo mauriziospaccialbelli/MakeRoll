@@ -1,6 +1,6 @@
 **ITALIANO** / [ENGLISH](README.md)
 
-MakeRoll è un sistema universale, facile e adattabile per lo scorrimento delle bobine nella stampa 3d fff/fdm.
+**MakeRoll** è un sistema universale, facile e adattabile per lo scorrimento delle bobine nella stampa 3d fff/fdm.
 
 Il sistema è compatto e utilizza profili di openbuilds, cuscinetti, dadi, bulloni e parti stampate.
 
@@ -12,6 +12,8 @@ MakeRoll ha un filtro antipolvere integrato per ogni bobbina, ed è rimovibile s
 
 Per ora MakeRoll funziona con la maggior parte dei filamenti in commercio, se ci fossero dei filamenti non compatibili con MakeRoll vi preghiamo di segnalarlo, grazie.
 
-MakeRoll è un progetto RepRap nato in [3Dingegno.com](http://www.3dingegno.com/it) da maurino web e marco spaccialbelli.
+Ecco un video per capire meglio... [youtube](https://www.youtube.com/watch?v=0LwdssKLHrM)
 
-Un saluto da MaurinoWeb di [3Dingegno.com](http://www.3dingegno.com/it)
+MakeRoll è un progetto [RepRap](http://reprap.org/wiki/MakeRoll/it) nato in [3Dingegno.com](http://www.3dingegno.com/it) da maurino web e marco spaccialbelli.
+
+Un saluto da MaurinoWeb di 3Dingegno.com
