@@ -1,6 +1,6 @@
 **ENGLISH** / [ITALIANO](README(IT).md)
 
-MakeRoll is a universal, easy and adjustable system for scrolling spool in 3d printing fff / fdm.
+**MakeRoll** is a universal, easy and adjustable system for scrolling spool in 3d printing fff/fdm.
 
 The system is compact and uses openbuilds profiles, bearings, nuts, bolts and printed parts.
 
@@ -12,6 +12,8 @@ MakeRoll has an integrated dust filter for each spool, and is removable without 
 
 For now MakeRoll works with most of the filaments on the market, if there were any filaments that are not compatible with MakeRoll, please report it, thanks.
 
-MakeRoll is a RepRap project born in [3Dingegno.com](http://www.3dingegno.com) by MaurinoWeb and Marco Spaccialbelli.
+Here is a video to better understand [youtube](https://www.youtube.com/watch?v=0LwdssKLHrM)
 
-A greeting from MaurinoWeb by [3Dingegno.com](http://www.3dingegno.com)
+MakeRoll is a [RepRap](http://reprap.org/wiki/MakeRoll) project born in [3Dingegno.com](http://www.3dingegno.com) by MaurinoWeb and Marco Spaccialbelli.
+
+A greeting from MaurinoWeb by 3Dingegno.com
