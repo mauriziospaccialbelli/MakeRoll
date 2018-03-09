@@ -14,8 +14,10 @@ Per ora MakeRoll funziona con la maggior parte dei filamenti in commercio, se ci
 
 Ecco un video per capire meglio... [youtube](https://www.youtube.com/watch?v=0LwdssKLHrM)
 
-Se vuoi stampare il tuo MakeRoll ecco la guida
+Se vuoi stampare il tuo MakeRoll ecco la guida...
+
 italiano: http://www.3dingegno.com/guide-stampa-3d/makeroll/stampa-makeroll-componenti-numero-stampe/
+
 inglese: http://www.3dingegno.com/3d-printing-guides/makeroll/print-makeroll-components-number-prints/
 
 MakeRoll è un progetto [RepRap](http://reprap.org/wiki/MakeRoll/it) nato in [3Dingegno.com](http://www.3dingegno.com/it) da maurino web e marco spaccialbelli.
