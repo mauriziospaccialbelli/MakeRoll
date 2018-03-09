@@ -14,6 +14,12 @@ For now MakeRoll works with most of the filaments on the market, if there were a
 
 Here is a video to better understand [youtube](https://www.youtube.com/watch?v=0LwdssKLHrM)
 
+If you want to print your MakeRoll here is the guide...
+
+english: http://www.3dingegno.com/3d-printing-guides/makeroll/print-makeroll-components-number-prints/
+
+italiano: http://www.3dingegno.com/guide-stampa-3d/makeroll/stampa-makeroll-componenti-numero-stampe/
+
 MakeRoll is a [RepRap](http://reprap.org/wiki/MakeRoll) project born in [3Dingegno.com](http://www.3dingegno.com) by MaurinoWeb and Marco Spaccialbelli.
 
 A greeting from MaurinoWeb by 3Dingegno.com
