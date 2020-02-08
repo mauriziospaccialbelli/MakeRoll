@@ -12,17 +12,17 @@ MakeRoll ha un filtro antipolvere integrato per ogni bobbina, ed è rimovibile s
 
 Per ora MakeRoll funziona con la maggior parte dei filamenti in commercio, se ci fossero dei filamenti non compatibili con MakeRoll vi preghiamo di segnalarlo, grazie.
 
-Ecco dei video per capire meglio... [youtube](https://www.youtube.com/playlist?list=PLQNfSBT6MZGRoyhgSXX5KtdG6Ll7bRw73)
+Ecco dei video per capire meglio... [Playlist MakeRoll 3Dingegno](https://www.youtube.com/playlist?list=PLQNfSBT6MZGRoyhgSXX5KtdG6Ll7bRw73)
 
 Consigli per stampare il tuo MakeRoll:
 
-Ogni pezzo di MakeRoll è progettato e testato per essere stampato ad altezza strati 0.3mm con ugello da 0.4mm, senza nessuna rotazione, quindi stampateli nella stessa posizione in cui si trovano, scaricandoli da qui scegliedo l'estenzione che preferisci: 
+Ogni pezzo di MakeRoll è progettato e testato per essere stampato ad altezza strati 0.3mm con ugello da 0.4mm, senza nessuna rotazione, quindi stampateli nella stessa posizione in cui si trovano, scaricandoli da qui scegliedo l'estensione che preferisci: 
 
 [Scarica MakeRoll.zip](https://github.com/3dingegno/MakeRoll/archive/1.0.1.zip)
 
 [Scarica MakeRoll.tar.gz](https://github.com/3dingegno/MakeRoll/archive/1.0.1.tar.gz)
 
-Per ora non ho testato nessuna mod o modifica che trovi nei link successivi, comunque è consigliato continuare la lettura...
+Per ora Non ho testato nessuna mod o modifica che trovi nei link successivi, comunque è consigliato continuare la lettura...
 
 La tolleranza dei pezzi a incastro è di 0.1mm su ogni lato, sufficiente per stampanti ben settate, ma alcuni possono avere problemi(sto valutando di aumentare la tolleranza) comunque ora hai la possibilità di scaricare i pezzi ad incastro con una tolleranza maggiorata di 0.2mm dal link seguente gentilmente offerto da thedragonlord(Andrea Agostini) che ringrazio: https://www.thingiverse.com/thing:4149284
 
