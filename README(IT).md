@@ -12,14 +12,24 @@ MakeRoll ha un filtro antipolvere integrato per ogni bobbina, ed è rimovibile s
 
 Per ora MakeRoll funziona con la maggior parte dei filamenti in commercio, se ci fossero dei filamenti non compatibili con MakeRoll vi preghiamo di segnalarlo, grazie.
 
-Ecco un video per capire meglio... [youtube](https://www.youtube.com/watch?v=0LwdssKLHrM)
+Ecco dei video per capire meglio... [youtube](https://www.youtube.com/playlist?list=PLQNfSBT6MZGRoyhgSXX5KtdG6Ll7bRw73)
 
-Se vuoi stampare il tuo MakeRoll ecco la guida...
+Consigli per stampare il tuo MakeRoll:
 
-italiano: http://www.3dingegno.com/guide-stampa-3d/makeroll/stampa-makeroll-componenti-numero-stampe/
+Ogni pezzo di MakeRoll è progettato e testato per essere stampato ad altezza strati 0.3mm con ugello da 0.4mm, senza nessuna rotazione, quindi stampateli nella stessa posizione in cui si trovano, scaricandoli da qui scegliedo l'estenzione che preferisci: 
 
-inglese: http://www.3dingegno.com/3d-printing-guides/makeroll/print-makeroll-components-number-prints/
+[Scarica MakeRoll.zip](https://github.com/3dingegno/MakeRoll/archive/1.0.1.zip)
 
-MakeRoll è un progetto [RepRap](http://reprap.org/wiki/MakeRoll/it) nato in [3Dingegno.com](http://www.3dingegno.com/it) da maurino web e marco spaccialbelli.
+[Scarica MakeRoll.tar.gz](https://github.com/3dingegno/MakeRoll/archive/1.0.1.tar.gz)
 
-Un saluto da MaurinoWeb di 3Dingegno.com
+Per ora non ho testato nessuna mod o modifica che trovi nei link successivi, comunque è consigliato continuare la lettura...
+
+La tolleranza dei pezzi a incastro è di 0.1mm su ogni lato, sufficiente per stampanti ben settate, ma alcuni possono avere problemi(sto valutando di aumentare la tolleranza) comunque ora hai la possibilità di scaricare i pezzi ad incastro con una tolleranza maggiorata di 0.2mm dal link seguente gentilmente offerto da thedragonlord(Andrea Agostini) che ringrazio: https://www.thingiverse.com/thing:4149284
+
+La lista completa con il numero di stampe e componenti è andata perduta insieme al sito che devo rimettere online, ma Alfredo Abate che ringrazio personalmente, ha gentilmente scritto una piccola guida che può essere di aiuto: https://www.thingiverse.com/thing:3742993
+
+Se hai qualche bobina BQ o simile(con diversi diametri) o semplicemente preferisci un attacco centrale, puoi scaricare la MOD per MakeRoll gentilmente offerta da Guppy75 e colgo l'occasione per ringraziarlo:
+https://www.thingiverse.com/thing:3198100
+
+
+MakeRoll è un progetto [RepRap](http://reprap.org/wiki/MakeRoll/it) nato in 3Dingegno da Maurino Web e Marco Spaccialbelli.
