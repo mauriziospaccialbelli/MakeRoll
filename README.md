@@ -34,4 +34,4 @@ If you have any BQ spools or similar (with different diameters) or simply prefer
 https://www.thingiverse.com/thing:3198100
 
 
-MakeRoll is a [RepRap](http://reprap.org/wiki/MakeRoll) project born in 3Dingegno.com by MaurinoWeb and Marco Spaccialbelli.
+MakeRoll is a [RepRap](http://reprap.org/wiki/MakeRoll) project born in 3Dingegno by MaurinoWeb and Marco Spaccialbelli.
