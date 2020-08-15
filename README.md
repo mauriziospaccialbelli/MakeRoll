@@ -1,6 +1,6 @@
 **ENGLISH** / [ITALIANO](README(IT).md)
 
-Support the 3D ingegno project "born to be free" by [Patreon](https://www.patreon.com/3Dingegno) or [Liberapay](https://it.liberapay.com/3Dingegno/)
+Support the 3Dingegno project "born to be free" by [Patreon](https://www.patreon.com/3Dingegno) or [Liberapay](https://it.liberapay.com/3Dingegno/)
 
 **MakeRoll** is a universal, easy and adjustable system for scrolling spool in 3d printing fff/fdm.
 
