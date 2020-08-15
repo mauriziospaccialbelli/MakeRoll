@@ -1,5 +1,7 @@
 **ITALIANO** / [ENGLISH](README.md)
 
+Sostieni il progetto 3Dingegno "Born to be Free" da [Patreon](https://www.patreon.com/3Dingegno) o [Liberapay](https://it.liberapay.com/3Dingegno/)
+
 **MakeRoll** è un sistema universale, facile e adattabile per lo scorrimento delle bobine nella stampa 3d fff/fdm.
 
 Il sistema è compatto e utilizza profili di openbuilds, cuscinetti, dadi, bulloni e parti stampate.
