@@ -1,6 +1,6 @@
 **ITALIANO** / [ENGLISH](README.md)
 
-Sostieni il progetto 3Dingegno "Born to be Free" da [Patreon](https://www.patreon.com/3Dingegno) o [Liberapay](https://it.liberapay.com/3Dingegno/)
+Sostieni e segui il lavoro di Maurizio Spaccialbelli su [Patreon](https://www.patreon.com/mauriziospaccialbelli)
 
 **MakeRoll** è un sistema universale, facile e adattabile per lo scorrimento delle bobine nella stampa 3d fff/fdm.
 
@@ -14,15 +14,15 @@ MakeRoll ha un filtro antipolvere integrato per ogni bobbina, ed è rimovibile s
 
 Per ora MakeRoll funziona con la maggior parte dei filamenti in commercio, se ci fossero dei filamenti non compatibili con MakeRoll vi preghiamo di segnalarlo, grazie.
 
-Ecco dei video per capire meglio... [Playlist MakeRoll 3Dingegno](https://www.youtube.com/playlist?list=PLQNfSBT6MZGRoyhgSXX5KtdG6Ll7bRw73)
+Ecco dei video per capire meglio... [Playlist Video MakeRoll](https://www.youtube.com/playlist?list=PLQNfSBT6MZGRoyhgSXX5KtdG6Ll7bRw73)
 
 Consigli per stampare il tuo MakeRoll:
 
 Ogni pezzo di MakeRoll è progettato e testato per essere stampato ad altezza strati 0.3mm con ugello da 0.4mm, senza nessuna rotazione, quindi stampateli nella stessa posizione in cui si trovano, scaricandoli da qui scegliedo l'estensione che preferisci: 
 
-[Scarica MakeRoll.zip](https://github.com/3dingegno/MakeRoll/archive/1.0.1.zip)
+[Scarica MakeRoll.zip](https://github.com/mauriziospaccialbelli/MakeRoll/archive/1.0.1.zip)
 
-[Scarica MakeRoll.tar.gz](https://github.com/3dingegno/MakeRoll/archive/1.0.1.tar.gz)
+[Scarica MakeRoll.tar.gz](https://github.com/mauriziospaccialbelli/MakeRoll/archive/1.0.1.tar.gz)
 
 Per ora Non ho testato nessuna mod o modifica che trovi nei link successivi, comunque è consigliato continuare la lettura...
 
@@ -34,4 +34,4 @@ Se hai qualche bobina BQ o simile(con diversi diametri) o semplicemente preferis
 https://www.thingiverse.com/thing:3198100
 
 
-MakeRoll è un progetto [RepRap](http://reprap.org/wiki/MakeRoll/it) nato in 3Dingegno da Maurino Web e Marco Spaccialbelli.
+MakeRoll è un progetto [RepRap](http://reprap.org/wiki/MakeRoll/it) creato da Maurizio Spaccialbelli(Maurino Web) e Marco Spaccialbelli.
