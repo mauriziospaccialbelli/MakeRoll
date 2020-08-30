@@ -1,6 +1,6 @@
 **ENGLISH** / [ITALIANO](README(IT).md)
 
-Support the work of Maurizio Spaccialbelli [Patreon](https://www.patreon.com/mauriziospaccialbelli)
+Support and follow the work of Maurizio Spaccialbelli on [Patreon](https://www.patreon.com/mauriziospaccialbelli)
 
 **MakeRoll** is a universal, easy and adjustable system for scrolling spool in 3d printing fff/fdm.
 
