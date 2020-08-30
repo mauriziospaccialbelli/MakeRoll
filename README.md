@@ -1,6 +1,6 @@
 **ENGLISH** / [ITALIANO](README(IT).md)
 
-Support the 3Dingegno project "born to be free" by [Patreon](https://www.patreon.com/3Dingegno) or [Liberapay](https://liberapay.com/3Dingegno/)
+Support the work of Maurizio Spaccialbelli [Patreon](https://www.patreon.com/mauriziospaccialbelli)
 
 **MakeRoll** is a universal, easy and adjustable system for scrolling spool in 3d printing fff/fdm.
 
@@ -14,15 +14,15 @@ MakeRoll has an integrated dust filter for each spool, and is removable without 
 
 For now MakeRoll works with most of the filaments on the market, if there were any filaments that are not compatible with MakeRoll, please report it, thanks.
 
-Here are some videos to better understand [Playlist MakeRoll 3Dingegno](https://www.youtube.com/playlist?list=PLQNfSBT6MZGRoyhgSXX5KtdG6Ll7bRw73)
+Here are some videos to better understand [Playlist Video MakeRoll](https://www.youtube.com/playlist?list=PLQNfSBT6MZGRoyhgSXX5KtdG6Ll7bRw73)
 
 Tips for print yours MakeRoll:
 
 Each piece of MakeRoll is designed and tested to be printed at 0.3mm layer height with 0.4mm nozzle, without any rotation, so print them in the same position they are in.. downloading them from here, choosing the extension you prefer:
 
-[Download MakeRoll.zip](https://github.com/3dingegno/MakeRoll/archive/1.0.1.zip)
+[Download MakeRoll.zip](https://github.com/mauriziospaccialbelli/MakeRoll/archive/1.0.1.zip)
 
-[Download MakeRoll.tar.gz](https://github.com/3dingegno/MakeRoll/archive/1.0.1.tar.gz)
+[Download MakeRoll.tar.gz](https://github.com/mauriziospaccialbelli/MakeRoll/archive/1.0.1.tar.gz)
 
 For now I have not tested any mod or modification that you find in the following links, however it is recommended to continue reading...
 
@@ -36,4 +36,4 @@ If you have any BQ spools or similar (with different diameters) or simply prefer
 https://www.thingiverse.com/thing:3198100
 
 
-MakeRoll is a [RepRap](http://reprap.org/wiki/MakeRoll) project born in 3Dingegno by MaurinoWeb and Marco Spaccialbelli.
+MakeRoll is a [RepRap](http://reprap.org/wiki/MakeRoll) project born by Maurizio Spaccialbelli(MaurinoWeb) and Marco Spaccialbelli.
