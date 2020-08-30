@@ -1,7 +1,5 @@
 **ITALIANO** / [ENGLISH](README.md)
 
-Sostieni e segui il lavoro di Maurizio Spaccialbelli su [Patreon](https://www.patreon.com/mauriziospaccialbelli)
-
 **MakeRoll** è un sistema universale, facile e adattabile per lo scorrimento delle bobine nella stampa 3d fff/fdm.
 
 Il sistema è compatto e utilizza profili di openbuilds, cuscinetti, dadi, bulloni e parti stampate.
@@ -33,5 +31,7 @@ La lista completa con il numero di stampe e componenti è andata perduta insieme
 Se hai qualche bobina BQ o simile(con diversi diametri) o semplicemente preferisci un attacco centrale, puoi scaricare la MOD per MakeRoll gentilmente offerta da Guppy75 e colgo l'occasione per ringraziarlo:
 https://www.thingiverse.com/thing:3198100
 
-
+Ogni progetto ideato da Maurizio Spaccialbelli usa solo hardware e/o Software liberi
 MakeRoll è un progetto [RepRap](http://reprap.org/wiki/MakeRoll/it) creato da Maurizio Spaccialbelli(Maurino Web) e Marco Spaccialbelli.
+Sostieni e segui il lavoro di Maurizio Spaccialbelli su [Patreon](https://www.patreon.com/mauriziospaccialbelli)
+Grazie
