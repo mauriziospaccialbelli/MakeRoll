@@ -1,5 +1,7 @@
 **ITALIANO** / [ENGLISH](README.md)
 
+Per scaricare MakeRoll clicca sul seguente link e scarica l'ultima versione, al momento è la 1.1.0-beta0, questo può sembrare confuso perché è una beta, ma è la versione consigliata: https://github.com/mauriziospaccialbelli/MakeRoll/releases
+
 MakeRoll is a really cool spool holder for 3d printing, first let's see the features already implemented in MakeRoll:
 
 - Molto compatto!
