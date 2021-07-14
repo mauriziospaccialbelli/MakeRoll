@@ -2,6 +2,8 @@
 
 To download MakeRoll click the following link and download the "latest release": https://github.com/mauriziospaccialbelli/MakeRoll/releases
 
+Documentation of the new parts in the "up" folder is work in progress. For now here is a link that may be of help: https://youtu.be/upP96dG-IZ8?t=183
+
 MakeRoll is a really cool spool holder for 3d printing, first let's see the features already implemented in MakeRoll:
 
 - Very compact!
